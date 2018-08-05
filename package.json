@@ -21,10 +21,9 @@
     "#USER",
     "/"
   ],
-  "_resolved": "http://registry.npm.taobao.org/thrift/download/thrift-0.11.0.tgz",
   "_shasum": "256115e4ff87871e12537f4b510bd2b425e13990",
-  "_spec": "thrift@^0.11.0",
-  "_where": "/Users/xpan/Documents/Project/apgame/esport-server",
+  "_spec": "thrift@^0.11.1",
+  "_where": "",
   "author": {
     "name": "Apache Thrift Developers",
     "email": "dev@thrift.apache.org",
